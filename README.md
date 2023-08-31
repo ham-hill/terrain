@@ -2,4 +2,4 @@
 
 3D Digital Terrain Model of Ham Hill
 
-Demo: https://geoffrowland.github.io/geofeature3Dnew/
+Demo: https://ham-hill.github.io/terrain/
