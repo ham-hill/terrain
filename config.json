@@ -57,7 +57,7 @@
             link: "https://github.com/geoffrowland/"
         },*/
     // This is used in various text messages. You should also set <title> in index.html
-    "appName": "GeoFeature",
+    "appName": "Terrain",
 
     // See comments in lib/Views/global.scss for further information about customising colors, logos, fonts etc.
     "brandBarElements": [
